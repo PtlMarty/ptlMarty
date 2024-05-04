@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Shop provider tool API](https://github.com/PtlMarty/shop-provider-api)
 
-- 🌱 I’m currently learning **React, Rails API**
+- 🌱 I’m currently learning **React / Next.js, Rails API**
 
 - 📫 How to reach me **ptl_martin@yahoo.co.jp**
 
