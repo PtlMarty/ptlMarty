@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 🔭 I’m currently working on [Shop provider tool API](https://github.com/PtlMarty/shop-provider-api)
+- 🔭 I’m currently working on [Shop provider tool API](https://github.com/PtlMarty/shop-provider-api),[Horizon Online Banking](https://github.com/PtlMarty/banking-yt-project))
 
 - 🌱 I’m currently learning **React / Next.js, Rails API**
 
