@@ -21,7 +21,10 @@
 <h3 > Framework </h3>
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" alt="react" width="40" height="40"/></a>
 
+
+https://nextjs.org/
 <h3 > Css Framework </h3>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a> 
