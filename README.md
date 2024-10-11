@@ -30,7 +30,7 @@
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://www.clipartmax.com/middle/m2H7H7G6N4A0b1Z5_graph-ql-logo-graphql-logo-png/" alt="sqlite" width="40" height="40"/></a> 
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/imgres?q=logo%20transparent%20graphql%20img&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F47%2F318%2Fpng-transparent-graphql-playground-macos-bigsur-icon.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dgraphql&docid=rUFQwR4XJE3G2M&tbnid=siTPgp-Pkj1xFM&vet=12ahUKEwjR8Y2j1oWJAxVjsVYBHfZuLkcQM3oECFUQAA..i&w=920&h=512&hcb=2&ved=2ahUKEwjR8Y2j1oWJAxVjsVYBHfZuLkcQM3oECFUQAA" alt="Graphql" width="40" height="40"/></a> 
 
 <h3 > Tools </h3>
 
