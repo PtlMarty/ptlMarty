@@ -19,7 +19,6 @@
 <h3 > Framework </h3>
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/9771a2d4a7366d3c6d4793e17104eba9e88f0aec82f7165bfe6871455c26cb2c/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="react" width="40" height="40"/></a>
 
 <h3 > Css Framework </h3>
 
@@ -31,6 +30,8 @@
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" class="w-24" style="fill: color(display-p3 0.8824 0 0.5961);"><path fill-rule="evenodd" d="m50 6.903 37.323 21.549v43.096L50 93.097 12.677 71.548V28.451zM16.865 30.87v31.656L44.28 15.041zM50 13.51 18.398 68.246h63.205zm27.415 58.924h-54.83L50 88.261zm5.72-9.908L55.72 15.041 83.136 30.87z" clip-rule="evenodd"></path><circle cx="50" cy="9.321" r="8.82"></circle><circle cx="85.229" cy="29.66" r="8.82"></circle><circle cx="85.229" cy="70.34" r="8.82"></circle><circle cx="50" cy="90.679" r="8.82"></circle><circle cx="14.766" cy="70.34" r="8.82"></circle><circle cx="14.766" cy="29.66" r="8.82"></circle></svg>
 
 <h3 > Tools </h3>
 
