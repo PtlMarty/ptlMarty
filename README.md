@@ -30,7 +30,7 @@
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://www.pngwing.com/en/search?q=graphql" alt="Graphql" width="40" height="40"/></a> 
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="Graphql" width="40" height="40"/></a> 
 
 <h3 > Tools </h3>
 
